@@ -72,3 +72,4 @@ for d = 1:length(uniqueDepths)-1 %loop through each depth except the last
     end
 end
 hold off; %release hold on the figure
+
